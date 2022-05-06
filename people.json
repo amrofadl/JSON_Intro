@@ -1,5 +1,5 @@
 {
-    "pepole": [ {
+    "people": [ {
         "name": "brad",
         "age": 35
     },
@@ -10,5 +10,10 @@
     {
         "name": "sarah",
         "age": 25
-    }]
+    },
+    {
+        "name": "Jeff",
+        "age": 20
+    }
+]
 }

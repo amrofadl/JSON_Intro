@@ -1,0 +1,14 @@
+{
+    "pepole": [ {
+        "name": "brad",
+        "age": 35
+    },
+    {
+        "name": "John",
+        "age": 40
+    },
+    {
+        "name": "sarah",
+        "age": 25
+    }]
+}
